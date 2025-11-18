@@ -1,0 +1,10 @@
+gradio==5.49.1
+jupyterlab==4.4.10
+
+# To work with image data
+rembg==2.0.67
+pillow==11.3.0
+
+# ONNX Runtime is a cross-platform inference engine for machine learning models 
+# that supports the Open Neural Network Exchange (ONNX) format.
+onnxruntime==1.23.2
